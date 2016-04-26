@@ -2,6 +2,20 @@
 /*fin primera parte*/
 
 /*segunda parte*/
+.bg span {
+	display: block;
+}
+.bg img {
+	display: block;
+}
+.bg {
+	background-image: url("../image/sec-2.jpg");
+	background-size: 800px;
+	width: 550px;
+	height: 500px;
+	opacity: 0.5;
+}
+
 /*fin psegunda parte*/
 
 /*tercera parte*/
