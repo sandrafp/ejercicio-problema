@@ -1,11 +1,104 @@
-/*primera parte*/
-/*fin primera parte*/
 
-/*segunda parte*/
-/*fin psegunda parte*/
+/*parte 1*/
 
-/*tercera parte*/
-/*fin tercera parte*/
 
-/*cuarta parte*/
-/*fin cuarta parte*/
+
+.container-fluid{
+	color: grey;
+}
+
+.img1{
+	background: url("../image/large.jpg");
+	background-size: cover;
+}
+
+.col-md-7 li{
+	text-decoration: none;
+	color: white;
+	display: inline-table;
+	padding: 20px;
+
+}
+
+
+.user{
+	color:#0080FF;
+}
+
+.col-md-5 span{
+	color:white;
+
+}
+
+.col-md-5 p{
+	padding: 20px 20px;
+	font-family: montserrat;
+}
+
+.T p{
+	
+	font-size: 30px;
+	font-family: montserrat;
+	color: white;
+	padding-top: 80px;
+
+}
+.transparencia{
+	background-color: #32373F;
+	height: 400px;
+	opacity: 0.5;
+}
+
+
+.as{
+	background-color: #1D59A3;
+	height: 100px;
+	margin-top: 5%;
+	padding-top: 40px;
+
+
+}
+
+.as p{
+	color: white;
+	font-family: montserrat;
+
+
+}
+
+.text3{
+	text-align: right;
+	padding-top: 20px;
+	font-size: 20px;
+}
+
+.video{
+	font-size: 11px;
+	color: white;
+}
+
+.btn {
+	text-align: center;
+}
+
+.boton{
+	border: 2px solid white;
+	display:inline;
+	margin: 20px;
+
+
+}
+.as h2{
+	color:white;
+	font-size: 15px;
+}
+
+
+
+
+ /*parte 1*/
+
+
+
+
+rgba ()
