@@ -5,6 +5,71 @@
 /*fin psegunda parte*/
 
 /*tercera parte*/
+
+.parte3 {
+	margin-bottom: 30px;
+}
+p img {
+	width: 30%;
+}
+#banner {
+	width: 100%;
+}
+.porque {
+	font-size: 30px;
+}
+.azul {
+	color: #55AAFF;
+
+}
+.full div{
+	display: inline-block;
+}
+/*footer*/
+.bg-celeste {
+	background-color: #74a3db;
+	color: white;
+	padding-bottom: 2%;
+}
+.bg-celeste h2 {
+	font-size: 25px;
+	font-family: arial;
+}
+.prueba{
+	padding: 3% 5%;
+	text-align: center;
+}
+#pruebalo {
+	border: 2px solid white;
+	border-radius: 5px;
+	padding: 1% 2%;
+	display: inline-block;
+	margin-top: 6%;
+}
+.bgplomo {
+	background-color: #2a3541;
+	color: white;
+	padding: 3% 3%;
+}
+#escribenos {
+	margin-top: 3%;
+}
+.fa {
+	padding: 1% 2%;
+	color: #74a3db;
+	border: 1px solid #74a3db;
+	border-radius: 50%;
+    margin-left: 3%;
+    font-size: 20px;
+    margin-bottom: 2%;
+}
+
+
+
+
+
+
+
 /*fin tercera parte*/
 
 /*cuarta parte*/
