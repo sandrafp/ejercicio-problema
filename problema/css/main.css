@@ -16,11 +16,11 @@
 .user {
 	color:#0080FF;
 }
-.col-md-5 span {
+.colum span {
 	color:white;
 }
 
-.col-md-5 p {
+.colum p {
 	padding: 20px 20px;
 	font-family: montserrat;
 }
@@ -66,7 +66,7 @@
 }
 .servicios {
 	color:#559FFF;
-	font-family: montserrat;
+	font-family: "montserrat";
 	font-size: 20px;
 	text-align: center;
 	padding-top: 40px;
@@ -76,11 +76,16 @@
 }
 .iconos i {
 	color: #559FFF;
-	font-size: 25px;
-	margin:20px;
+    font-size: 69px;
+    margin: 20px;
+    padding: 5% 5%;
+    border-radius: 50%;
+    border: 1px solid #DDD;
 }
 .iconos p {
 	color: #559FFF;
+	font-size: x-large;
+	padding-bottom: 5%;
 }
 .texto5 {
 	font-size: 10px;
@@ -91,7 +96,8 @@
 .it h6 {
 	color: grey;
 }
-/*parte 1*/
+/*fin parte 1*/
+
 /*segunda parte*/
 }
 .flecha {
@@ -101,7 +107,7 @@
 	max-width: 100%;
 }
 .con1 {
-	border-top: 1px solid gray;
+	border-top: 1px solid #EEE;
 	margin-top: 3%;
 }
 .linea {
@@ -111,4 +117,107 @@
 /*fin psegunda parte*/
 
 /*tercera parte*/
+.bg {
+	position: absolute;
+	width: 555px;
+	height: 500px;
+	background-color: #2F2F2F;
+	opacity: 0.9;
+	
+}
+.imagen-2 {
+	background-image: url("../image/sec-2.jpg");
+	width: 555px;
+	height: 500px;
+	opacity: 0.2;
+	background-size: 750px;
+	background-repeat: no-repeat;
+}
+.icono {
+	
+	font-size: 25px;
+	color: white;
+	color: #68ADFF;
+	border-radius: 50px;
+	padding: 10px;
+	display: block;
+}
+/*fin psegunda parte*/
+
+/*tercera parte*/
+.parte3 {
+ 	margin-bottom: 30px;
+}
+p img {
+ 	width: 30%;
+}
+#banner {
+ 	width: 100%;
+}
+.porque {
+ 	font-size: 30px;
+ 	color: black;
+}
+.azul {
+ 	color: #55AAFF;
+ 
+}
+.full div {
+ 	display: inline-block;
+}
+.xx {
+	border-top: 1px solid #EEE;
+}
+.row2 {
+	padding: 5% 0%;
+}
+#mar-0 {
+	margin-top: 0%;
+}
+.size {
+	font-size: 13px;
+}
+
+/*fin parte 3*/
+
+ /*footer*/
+
+.bg-celeste {
+ 	background-color: #74a3db;
+ 	color: white;
+ 	padding-bottom: 2%;
+ }
+ .bg-celeste h2 {
+ 	font-size: 25px;
+ 	font-family: arial;
+}
+.prueba{
+ 	padding: 3% 5%;
+ 	text-align: center;
+}
+#pruebalo {
+ 	border: 2px solid white;
+ 	border-radius: 5px;
+ 	padding: 1% 2%;
+ 	display: inline-block;
+ 	margin-top: 6%;
+}
+.bgplomo {
+ 	background-color: #2a3541;
+	color: white;
+ 	padding: 3% 3%;
+}
+#escribenos {
+ 	margin-top: 3%;
+ }
+.fa {
+ 	padding: 1% 2%;
+ 	color: #74a3db;
+ 	border: 1px solid #74a3db;
+ 	border-radius: 50%;
+    margin-left: 3%;
+    font-size: 20px;
+    margin-bottom: 2%;
+}
+/*fin footer*/
 
