@@ -1,9 +1,47 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Contacto</title>
-</head>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>Contact Form</title>
+        <link rel="stylesheet" media="screen" href="styles.css" >
+        <!–[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk
+        /html5.js"></script>
+        <![endif]–>
+        <link rel="stylesheet" type="text/css" href="css/contacto.css">
+    </head>
 <body>
-<!--Escribe aqui tu codigo-->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 img_contact formulario">
+                <form class="contact_form" action="#" method="post">
+                    <ul>
+                        <li>
+                            <h2>Formulario de Contacto</h2>
+                        </li>
+                        <li>
+                            <label for="name">Nombre:</label>
+                            <input type="text"  placeholder="Tu Nombre" required />
+                        </li>
+                        <li>
+                            <label for="email">Email:</label>
+                            <input type="email" name="email" placeholder="laboratoria@laboratoria" required />
+                        </li>
+                        <li>
+                            <label for="website">Sitio Web:</label>
+                            <input type="url" name="web" placeholder="www.Labporatoriachile.com" required />
+                        </li>
+                        <li>
+                            <label for="Mensaje">Mensaje:</label>
+                            <textarea name="Mensaje" cols="40" rows="6" required ></textarea>
+                        </li>
+                        <li>
+                            <button class="submit" type="submit">Enviar</button>
+                        </li>
+                    </ul>
+                </form>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

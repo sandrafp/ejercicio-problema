@@ -96,6 +96,10 @@
 .it h6 {
 	color: grey;
 }
+.style-none {
+	text-decoration: none;
+	color: white;
+}
 /*fin parte 1*/
 
 /*segunda parte*/
